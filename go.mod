@@ -1,4 +1,4 @@
-module github.com/robrotheram/dca
+module github.com/khodand/dca
 
 go 1.16
 
